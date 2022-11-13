@@ -1,0 +1,15 @@
+C:\Users\79520\Desktop\Курс Python\Sem5\Task_Add\obj\Debug\net6.0\Task_Add.csproj.AssemblyReference.cache
+C:\Users\79520\Desktop\Курс Python\Sem5\Task_Add\obj\Debug\net6.0\Task_Add.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79520\Desktop\Курс Python\Sem5\Task_Add\obj\Debug\net6.0\Task_Add.AssemblyInfoInputs.cache
+C:\Users\79520\Desktop\Курс Python\Sem5\Task_Add\obj\Debug\net6.0\Task_Add.AssemblyInfo.cs
+C:\Users\79520\Desktop\Курс Python\Sem5\Task_Add\obj\Debug\net6.0\Task_Add.csproj.CoreCompileInputs.cache
+C:\Users\79520\Desktop\Курс Python\Sem5\Task_Add\bin\Debug\net6.0\Task_Add.exe
+C:\Users\79520\Desktop\Курс Python\Sem5\Task_Add\bin\Debug\net6.0\Task_Add.deps.json
+C:\Users\79520\Desktop\Курс Python\Sem5\Task_Add\bin\Debug\net6.0\Task_Add.runtimeconfig.json
+C:\Users\79520\Desktop\Курс Python\Sem5\Task_Add\bin\Debug\net6.0\Task_Add.dll
+C:\Users\79520\Desktop\Курс Python\Sem5\Task_Add\bin\Debug\net6.0\Task_Add.pdb
+C:\Users\79520\Desktop\Курс Python\Sem5\Task_Add\obj\Debug\net6.0\Task_Add.dll
+C:\Users\79520\Desktop\Курс Python\Sem5\Task_Add\obj\Debug\net6.0\refint\Task_Add.dll
+C:\Users\79520\Desktop\Курс Python\Sem5\Task_Add\obj\Debug\net6.0\Task_Add.pdb
+C:\Users\79520\Desktop\Курс Python\Sem5\Task_Add\obj\Debug\net6.0\Task_Add.genruntimeconfig.cache
+C:\Users\79520\Desktop\Курс Python\Sem5\Task_Add\obj\Debug\net6.0\ref\Task_Add.dll
